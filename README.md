@@ -1,7 +1,9 @@
 
-# Apply4Job: Streamline your job application process with AI
+# Streamline the application process with AI
 
 Drawing on my experience as a developer and transition to product manager, I've built Apply4Job, a Python project born from a deep understanding of the job search process. This MVP tackles common challenges like crafting tailored resumes and cover letters by leveraging AI assistance. While this version prioritizes developer-friendly local execution and avoids UI complexities, it seamlessly integrates Git for easy sharing and lays the foundation for future enhancements. Whether you're a developer, job seeker, or anyone looking to streamline your applications, Apply4Job offers a powerful tool to navigate the process with confidence.
+
+[Product Requirements Doc (WIP)](https://docs.google.com/document/u/1/d/e/2PACX-1vQ9OBJ3Kd4XyRO8eXMf46ZW1eyMJ7iREFULlI1PAsholNIWNQr-gYhMnViqYZryTbmd4whJuOskb-jm/pub)
 
 ## Key Features:
 
