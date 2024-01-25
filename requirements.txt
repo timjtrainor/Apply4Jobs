@@ -1,9 +1,0 @@
-affinda==4.16.0
-google-api-python-client==2.113.0
-pandas==2.1.4
-python-docx==1.1.0
-google-ai-generativelanguage>=0.4.0
-python-dateutil==2.8.2
-keyring==24.3.0
-pathlib==1.0.1
-passlib==1.7.4
