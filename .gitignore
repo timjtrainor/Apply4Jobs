@@ -1,1 +1,7 @@
+/data/target/
 /data/applied/
+/temp/
+/data/src/resume_full/ResumeFull.docx
+/data/src/resume_template/ResumeTemplate.docx
+*.iml
+.idea/
