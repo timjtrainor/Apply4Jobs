@@ -1,6 +1,5 @@
 import google.generativeai as genai
 import time
-import keyring
 
 from google.api_core.exceptions import GoogleAPIError
 
